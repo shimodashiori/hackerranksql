@@ -1,5 +1,6 @@
 Hacker Rank SQL Answers.md
 https://github.com/vkoul/Hacker-Rank-SQL-Answers/blob/2d07729dd2e2928f7895950b8e5b6066247a43d0/Hacker%20Rank%20SQL%20Answers.md
+https://towardsdatascience.com/sql-hackerrank-solutions-516666f9eb8c
 
 ※引用元※
 

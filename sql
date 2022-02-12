@@ -1,3 +1,7 @@
+Hacker Rank SQL Answers.md
+https://github.com/vkoul/Hacker-Rank-SQL-Answers/blob/2d07729dd2e2928f7895950b8e5b6066247a43d0/Hacker%20Rank%20SQL%20Answers.md
+
+※引用元※
 
 * [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query)
 ```sql
